@@ -135,8 +135,8 @@
     },
     "footer": {
       "source": "github:THEMEZE/quartz_footer",
-      "resolved": "https://github.com/THEMEZE/quartz_footer",
-      "commit": "bf827c22774ae39bae155e49ca061fe6c4d3db8c",
+      "resolved": "https://github.com/THEMEZE/quartz_footer.git",
+      "commit": "5a37c59d2542665c8c593e63a29c4fcf64fe2090",
       "installedAt": "2026-06-18T17:25:16.695Z"
     },
     "footer0": {
