@@ -133,10 +133,16 @@
       "commit": "8be5be706d19ca34fa8e342327b78e11aff3d4f0",
       "installedAt": "2026-06-18T17:25:14.184Z"
     },
-    "footer": {
+    "footer0": {
       "source": "github:quartz-community/footer",
       "resolved": "https://github.com/quartz-community/footer.git",
       "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
+      "installedAt": "2026-06-18T17:25:16.695Z"
+    },
+    "footer": {
+      "source": "github:THEMEZE/quartz_footer",
+      "resolved": "https://github.com/THEMEZE/quartz_footer",
+      "commit": "bf827c22774ae39bae155e49ca061fe6c4d3db8c",
       "installedAt": "2026-06-18T17:25:16.695Z"
     },
     "github-flavored-markdown": {
