@@ -216,7 +216,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/THEMEZE/BibiExplique
-        Discord Community: https://discord.gg/cRFFHYye7t  
+        Discord Community: https://discord.gg/cRFFHYye7t
         Instagram: https://www.instagram.com/bibi_explique/
   - source: github:THEMEZE/quartz_footer
     enabled: true
@@ -224,7 +224,6 @@ plugins:
       links:
         GitHub: https://github.com/THEMEZE/BibiExplique
         Instagram: https://www.instagram.com/bibi_explique/
-        # Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
