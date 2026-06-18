@@ -217,7 +217,7 @@ plugins:
       links:
         GitHub: https://github.com/THEMEZE/BibiExplique
         Discord Community: https://discord.gg/cRFFHYye7t
-        Instagram: https://www.instagram.com/bibi_explique/
+        # Instagram: https://www.instagram.com/bibi_explique/
   - source: github:THEMEZE/quartz_footer
     enabled: true
     options:
