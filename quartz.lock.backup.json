@@ -133,18 +133,18 @@
       "commit": "8be5be706d19ca34fa8e342327b78e11aff3d4f0",
       "installedAt": "2026-06-18T17:25:14.184Z"
     },
-    "_footer0_backup": {
-      "source": "github:THEMEZE/quartz_footer",
-      "resolved": "https://github.com/THEMEZE/quartz_footer_0.git",
-      "commit": "5a37c59d2542665c8c593e63a29c4fcf64fe2090",
-      "installedAt": "2026-06-18T17:25:16.695Z"
-    },
-    "footer": {
-      "source": "github:quartz-community/footer",
-      "resolved": "https://github.com/quartz-community/footer.git",
-      "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
-      "installedAt": "2026-06-18T17:25:16.695Z"
-    },
+    // "_footer0_backup": {
+    //   "source": "github:THEMEZE/quartz_footer",
+    //   "resolved": "https://github.com/THEMEZE/quartz_footer_0.git",
+    //   "commit": "5a37c59d2542665c8c593e63a29c4fcf64fe2090",
+    //   "installedAt": "2026-06-18T17:25:16.695Z"
+    // },
+    // "footer": {
+    //   "source": "github:quartz-community/footer",
+    //   "resolved": "https://github.com/quartz-community/footer.git",
+    //   "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
+    //   "installedAt": "2026-06-18T17:25:16.695Z"
+    // },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
       "resolved": "https://github.com/quartz-community/github-flavored-markdown.git",
